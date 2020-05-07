@@ -1,1 +1,1 @@
-# react-native-scrollable-animated-header
+# React Native Scroll Aware Header Transitions
